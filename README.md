@@ -1,15 +1,6 @@
-### 爪卂尺丨ㄖ 🌟
+### 爪卂尺丨ㄖ 👋
 
 
-const charles = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
-    }
-};
+### Sistemas Operativos 💻
+
+![windows](https://user-images.githubusercontent.com/101064921/162531850-a9eb23d2-86c8-46fd-861e-4ff296a60324.svg)
