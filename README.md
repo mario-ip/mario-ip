@@ -13,3 +13,10 @@
 ### <p>Discord :
 <a href="https://discord.gg/4yWBKgnGB4">爪卂尺丨ㄖ</a>.
 </p>
+
+### Redes Sociales 🥳
+  
+  
+![spotify](https://user-images.githubusercontent.com/101064921/162534721-466a3c0a-39ed-4c9f-b46e-fb160066dc2f.svg)  <p>Discord :
+<a href="https://open.spotify.com/user/31bxpmr3ees4jm7oetbkte3bamte?si=40a9226f553640ae">![spotify](https://user-images.githubusercontent.com/101064921/162534721-466a3c0a-39ed-4c9f-b46e-fb160066dc2f.svg)</a>.
+</p>
